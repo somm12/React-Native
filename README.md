@@ -18,5 +18,6 @@
 <br>
 
 ## 👀 PREVIEW
-![RPReplay_Final1651139201](https://user-images.githubusercontent.com/63543733/165738781-d8a93c60-85fd-4f20-99b4-0f89a6658395.gif)
+<img src="https://user-images.githubusercontent.com/63543733/165738781-d8a93c60-85fd-4f20-99b4-0f89a6658395.gif" width="50%"> 
+
 
